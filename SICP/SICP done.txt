@@ -1,0 +1,3 @@
+http://newstar.rinet.ru/~goga/sicp/sicp.pdf
+http://mitpress.mit.edu/sites/default/files/sicp/index.html
+http://sicp.sergeykhenkin.com/category/sicp/solutions/page/13/
